@@ -1,1 +1,1 @@
-Sprawozdanie: https://docs.google.com/document/d/1F50nF59rJ-ityOXvhsngmQkyUEq3XqbgKbovMiQW9AQ/edit?fbclid=IwAR1J8r5gIdJNyiErFu_X2037e7AvR5Z8MiFnZpM5ZU-ipSn7FJZfem5jaRk
+Projekt zawiera rozwiązanie zadań z biologii syntetycznej, lab 5. Rozwiązania znajdują się w notatnikach jupytera, odpowiednio w katalogach cw1 oraz cw2.
